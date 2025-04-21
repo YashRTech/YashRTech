@@ -17,8 +17,8 @@ Currently learning through [The Odin Project](https://www.theodinproject.com/).
 I'm on Day 01 of my **180-day Full Stack Developer Challenge**  
 
 ## 📫 Connect with Me
-- Twitter: [@YashRTech]([https://twitter.com/yourhandle](https://x.com/YashRTech?t=8xVZGzNond28amjehhMjQA&s=09))
-- LinkedIn: [Yash Tiwari]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/yash-tiwari-2111b934b/))
+- Twitter: [@YashRTech](https://x.com/YashRTech?t=n1SwkJqiZk4mo5IgnpHdjQ&s=09)
+- LinkedIn: [Yash Tiwari](https://www.linkedin.com/in/yash-tiwari-2111b934b/)
 - YouTube: [exceptional_coder](https://youtube.com/@exceptional_coder?si=yn3TB0ty_RqfzmUj)
 - Instagram: [exceptionalprogrammer_](https://www.instagram.com/exceptionalprogrammer_?igsh=eHFremZ3aHNiaW4w)
 <!--

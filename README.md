@@ -14,7 +14,7 @@ Currently learning through [The Odin Project](https://www.theodinproject.com/).
 - Node.js, MongoDB (learning)
 
 ## 🔥 Beast Challenge
-I'm on Day 07 of my **180-day Full Stack Developer Challenge**  
+I'm on Day 37 of my **180-day Full Stack Developer Challenge**  
 
 ## 📫 Connect with Me
 - Twitter: [@YashRTech](https://x.com/YashRTech?t=n1SwkJqiZk4mo5IgnpHdjQ&s=09)
